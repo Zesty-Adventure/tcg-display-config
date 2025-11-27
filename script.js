@@ -1,0 +1,1 @@
+console.log('TCG Display active');
